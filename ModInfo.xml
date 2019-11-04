@@ -1,0 +1,10 @@
+<Mod ID="TheForestTwitchIntegration">
+  <Compatible>1.11b</Compatible>
+  <Name>
+    <EN>ModAPI Twitch Integration The Forest</EN>
+  </Name>
+  <Description>
+    <EN>Requires Modapi Twitch Integration Core, extends that mod to add comands for game 'The Forest'. Its possible to add commands for other games</EN>
+  </Description>
+  <Version>1.0.0.3</Version>
+</Mod>
