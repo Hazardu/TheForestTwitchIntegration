@@ -1,7 +1,0 @@
-C:\Users\Hazard\Desktop\Apps\modapi_20180429_1.0.5.0\projects\TheForest\TheForestTwitchIntegration\Mod\TheForestTwitchIntegration.dll
-C:\Users\Hazard\Desktop\Apps\modapi_20180429_1.0.5.0\projects\TheForest\TheForestTwitchIntegration\Mod\TheForestTwitchIntegration.pdb
-C:\Users\Hazard\Desktop\Apps\modapi_20180429_1.0.5.0\projects\TheForest\TheForestTwitchIntegration\Mod\ModAPITwitchIntegration.dll
-C:\Users\Hazard\Desktop\Apps\modapi_20180429_1.0.5.0\projects\TheForest\TheForestTwitchIntegration\obj\x86\Release\TheForestTwitchIntegration.csprojAssemblyReference.cache
-C:\Users\Hazard\Desktop\Apps\modapi_20180429_1.0.5.0\projects\TheForest\TheForestTwitchIntegration\obj\x86\Release\TheForestTwitchIntegration.csproj.CopyComplete
-C:\Users\Hazard\Desktop\Apps\modapi_20180429_1.0.5.0\projects\TheForest\TheForestTwitchIntegration\obj\x86\Release\TheForestTwitchIntegration.dll
-C:\Users\Hazard\Desktop\Apps\modapi_20180429_1.0.5.0\projects\TheForest\TheForestTwitchIntegration\obj\x86\Release\TheForestTwitchIntegration.pdb
